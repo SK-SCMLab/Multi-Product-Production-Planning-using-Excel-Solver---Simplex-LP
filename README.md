@@ -55,4 +55,11 @@ Maximize: 12.5X₁ + 8.25X₂ + 6.75X₃ + 18.9X₄ + 14.6X₅
 - 300 ≤ X₄ ≤ 5000
 - 400 ≤ X₅ ≤ 7000
 
+---
 
+## 👩‍👦 Requirements
+- Microsoft Excel 2019 or later
+- Operation research fundamentals
+
+---
+*"The best way to predict the future is to create it"*
